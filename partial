@@ -1,0 +1,57 @@
+<div class="col-lg-6">
+    <h3 class=text-center>INHOME</h3>
+    <P>Giving your home new style </P>
+    <ul>
+   <li> +91-9008-845100</li>
+    +91-9008-845100
+    +91-9008-845100
+    +91-9008-845100
+</div>
+
+<div>
+<b><i><h4 class="text-center">Our Furniture throughly & rigorosly tested</h4></i></b>
+<ul>
+            <li>Boiling water proof and anti-termite.</li>
+            <li>Warrenty upto 5 years.</li>
+       <li> Suiting your budget.</li>
+    <li>InHome Modular Kitchen.</li>
+    </ul>
+    </div>
+
+
+    <section class="my-5" id="contactus">
+    <div class="py-5">
+        <h2 class="text-center">
+            CONTACT US
+        </h2>
+    </div> 
+    <div class="container">
+        <div class="row"></div>
+        <div class="col-lg-8">
+    <form action="/website/index.php" method="post">
+    <div class="form-group">
+        <label for="name">Name</label>
+        <input type="text" name="name" class="form-control" id="name" aria-describedby="emailHelp">
+    </div>
+
+    <div class="form-group">
+        <label for="email">Email</label>
+        <input type="email" name="email" class="form-control" id="email" aria-describedby="emailHelp"> 
+        <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+    </div>
+
+    <div class="form-group">
+        <label for="mobile">Mobile</label>
+        <input type="mobile" name="mobile" class="form-control" id="mobile" aria-describedby="emailHelp"> 
+        </div>
+<button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+    
+    </div>
+
+    <!-- col2 -->
+
+    
+    </div>
+</div>
+</section>

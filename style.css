@@ -1,0 +1,120 @@
+         * {
+             margin: 0px;
+             padding: 0px;
+             box-sizing: border-box;
+         }
+         
+         .navbar {
+             background: #0f4c75;
+             font-variant: small-caps;
+         }
+         
+         section {
+             padding: 25px;
+             margin-top: 5px auto;
+             background: whitesmoke;
+             font-family: Arial, Helvetica, sans-serif;
+             font-variant: small-caps;
+         }
+         
+         h2 {
+             text-transform: uppercase;
+             text-decoration: aqua;
+         }
+         
+         li {
+             list-style: none!important;
+         }
+         
+         .menu {
+             background-color: aquamarine!important;
+         }
+         
+         #logo {
+             text-align: center;
+         }
+         /* footer section */
+         /* .footer-widget h4::after {
+     content: "";
+     background: red;
+     display: block;
+     height: 2px;
+     width: 50px;
+     margin: 5px 0;
+ }
+ 
+ .footer-widget {
+     color: #fff;
+ }
+ 
+ .latest-news {
+     list-style: none;
+     padding: 0px;
+     margin: 0px;
+ }
+ 
+ .latest-news a {
+     margin-bottom: 3px;
+     text-decoration: none;
+     color: white;
+ }
+ 
+ .latest-news li {
+     margin-bottom: 3px;
+ }
+ 
+ .latest-news li::before {
+     content: "\f101";
+     font-family: FontAwesome;
+     padding-right: 5px;
+ } */
+         /* #footer {
+     background-color: #0f4c75;
+     color: white;
+     background: url('images/kitchen2.jpg') no-repeat 0 0;
+     background-size: cover;
+     padding: 50px 0;
+     position: relative;
+ } */
+         /* #footer::before {
+     background: rgba(52, 73, 94, 0.7);
+     content: "";
+     position: absolute;
+     top: 0;
+     height: 100%;
+     width: 100%;
+     border-radius: 2%;
+ } */
+         /* #footer:hover::before {
+     background: rgba(13, 40, 68, 0.7);
+ } */
+         
+         .btn {
+             align-items: center;
+         }
+         
+         .primary {
+             background: #0f4c75;
+         }
+         
+         #foot {
+             color: #fff;
+             margin: 5;
+             padding: 0;
+         }
+         
+         #social-icons li {
+             display: inline-block;
+             padding-left: 20px;
+             margin-bottom: 5px auto;
+         }
+         
+         #social-icons li a {
+             color: #fff;
+             font-size: 30px;
+         }
+         
+         li {
+             list-style: none;
+         }
+         /* About us */
